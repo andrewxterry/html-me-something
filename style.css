@@ -31,7 +31,9 @@ footer{
 
 .welcome{
     background-image: url("https://images.newschoolers.com/images/17/00/38/63/63/386363.jpeg");
-
+    background-position: left bottom;
+    background-attachment: fixed;
+    
 }
 
 .intro{
