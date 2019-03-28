@@ -1,0 +1,48 @@
+body{
+    background: rgb(83,68,198);
+    background: linear-gradient(45deg, rgba(83,68,198,1) 9%, rgba(27,126,180,1) 37%, rgba(49,186,124,1) 78%);
+}
+
+h1{
+font-family: "Serif", Bookman, URW Bookman L;
+font-weight: 500;
+
+}
+
+h3{
+
+}
+
+h5{
+
+}
+
+p{
+
+}
+
+footer{
+
+}
+
+.navbar{
+
+}
+
+.welcome{
+    background-image: url("https://images.newschoolers.com/images/17/00/38/63/63/386363.jpeg");
+
+}
+
+.intro{
+
+}
+
+.about{
+
+}
+
+.moon{
+
+}
+
